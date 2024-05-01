@@ -1,0 +1,17 @@
+.clock {
+    text-align: center;
+    justify-content: center;
+    font-size: 76px;
+    
+  }
+  
+  .time {
+    font-weight: bold;
+  }
+  
+  .ampm {
+    font-size: 20px;
+  }
+  .body {
+    background-color: aqua;
+  }
